@@ -1,0 +1,36 @@
+body {background-color: black;}
+div.Tittle {
+      color: pink;
+      font-size: 200%;
+      text-align: center;
+      padding: 15px;
+}
+
+div.Cats {
+    background-color: black;
+    color: white;
+    margin: 0 20px 20px 0;
+    padding: 5px;
+    font-size: 150%;
+}
+
+p { color: lightgray;
+    padding: 2px;
+}
+
+h2 {
+    color: yellowgreen
+}
+
+h3 {color: hotpink;
+  border: solid hotpink;
+}
+
+p {
+    text-align: right;
+    color: white;
+    border: double;
+}
+
+summary {color: gray
+}
